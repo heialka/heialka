@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+## About Me
+My name is Al Hamka, also you can call me Hamka.
+I am a student at Mulia University, majoring in Computer Science with a current GPA of 3.85/4.00.
+
+## Skills 
+- Php / Laravel
+- UI/UX Design
+
+
+## Currently Learning...
+- Dart / Flutter
+- Kotlin / Android Studio
+
 <!--
 **heialka/heialka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
